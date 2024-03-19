@@ -1,11 +1,10 @@
-
 body {
-  background-color: #55efc4;
+  background-color: #81ecec;
 }
 
 .centered {
-    padding-top: 200px;
-    text-align: center;
+  padding-top: 200px;
+  text-align: center;
 }
 
 .secret-text {
